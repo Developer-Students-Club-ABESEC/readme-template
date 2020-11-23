@@ -1,6 +1,6 @@
 <p align="center">
 <a href="#">
-    <img src="https://i.ibb.co/b50NHC4/DSC-ABES.jpg" alt="DSC ABESEC" />
+	<img src="https://i.ibb.co/5rbLbdz/DSC-ABES-Engineering-College-Light-Vertical-Logo.png" alt="DSC ABESEC" />
 </a>
 	<h2 align="center"> < Insert Project Title Here > </h2>
 	<h4 align="center"> < Insert Project Description Here > <h4>
@@ -50,7 +50,7 @@
 John Doe
 
 <p align="center">
-<img src = "https://i.ibb.co/rkkz9hm/DSC-Logo.png" width="225" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://i.ibb.co/rkkz9hm/DSC-Logo.png" width="180" height="150" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/person1"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/></a>
@@ -66,7 +66,7 @@ John Doe
 John Doe
 
 <p align="center">
-<img src = "https://i.ibb.co/rkkz9hm/DSC-Logo.png" width="225" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://i.ibb.co/rkkz9hm/DSC-Logo.png" width="`180" height="150" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/person2"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/></a>
@@ -84,7 +84,7 @@ John Doe
 John Doe
 
 <p align="center">
-<img src = "https://i.ibb.co/rkkz9hm/DSC-Logo.png" width="225" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://i.ibb.co/rkkz9hm/DSC-Logo.png" width="180" height="150" alt="Your Name Here (Insert Your Image Link In Src">
 </p>
 <p align="center">
 <a href = "https://github.com/person3"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/></a>
